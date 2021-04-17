@@ -25,6 +25,6 @@
 另外欢迎有招人需求的朋友提供招聘信息，触达数万前端及 Java 后端，内推奖拿到手软。**发送招聘信息至邮箱：w3cfed@gmail.com。老王帮你来招人。**
 
 # 月度汇总
+## 2021年
+[04月](https://github.com/martinageradams/WhoIsHiring/issues/2) [03月](https://github.com/martinageradams/WhoIsHiring/issues/1)
 
-[2021年04](https://github.com/martinageradams/WhoIsHiring/issues/2)
-[2021年03月](https://github.com/martinageradams/WhoIsHiring/issues/1)
